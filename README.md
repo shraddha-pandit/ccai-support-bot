@@ -1,6 +1,6 @@
 # TechMart CCAI Support Bot Demo
 
-A full-stack autonomous AI customer support demo using **Google Gemini 2.0 Flash** with function calling, built with **FastAPI** (backend) and **React + Tailwind** (frontend).
+A full-stack autonomous AI customer support demo using **Google Gemini 3.6 Flash** with function calling, built with **FastAPI** (backend) and **React + Tailwind** (frontend).
 
 ## Architecture
 
